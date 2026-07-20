@@ -2,7 +2,7 @@
 
 Androrat (Fork/Silent Edition)
 
-Remote Administration Tool for Android
+Remote Administration Tool for Androidvh
 
 Androrat is a client/server application developed in Java Android for the client-side and in Java/Swing for the Server.
 
